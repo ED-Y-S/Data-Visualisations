@@ -21,4 +21,4 @@ Although this chart does not show the full dataset of schools in NYC that offer 
 </br>
 </br>
 </br>
-[Project Instructios](https://github.com/mikeizbicki/cmc-csci040/blob/2021fall/hw_02/README.md)
+[Project Instructions](https://github.com/mikeizbicki/cmc-csci040/blob/2021fall/hw_02/README.md)
