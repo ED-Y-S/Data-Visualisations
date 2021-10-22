@@ -16,4 +16,9 @@ This chart demonstrates the fluctuation Steam's online population throughout a w
 ![CS-School](CS-SCHOOLS.png)
 Although this chart does not show the full dataset of schools in NYC that offer CS coures, it does shows a good average as the margin does not exceed 1-2. Y-axis demonstrates the number of courses at per school; X-axis demonstrates respective 
 </br>
+</br>
 [Data Source](https://catalog.data.gov/dataset/2016-2017-computer-science-report/)
+</br>
+</br>
+</br>
+[Project Instructios](https://github.com/mikeizbicki/cmc-csci040/blob/2021fall/hw_02/README.md)
