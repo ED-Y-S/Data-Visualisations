@@ -20,7 +20,7 @@ As shown, the blue line indicates the total amount of online individuals during 
 Although this chart does not show the full dataset of schools in NYC that offer CS coures, it does shows a good average as the margin does not exceed 1-2. 
 </br>
 </br>
-Y-axis demonstrates the number of courses at per school; X-axis demonstrates respective 
+Y-axis demonstrates the number of courses at per school; X-axis demonstrates each respective school.
 </br>
 </br>
 [Data Source](https://catalog.data.gov/dataset/2016-2017-computer-science-report/)
