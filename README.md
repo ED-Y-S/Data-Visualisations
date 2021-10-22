@@ -1,6 +1,8 @@
 # Data Visualisations
 This is a small repository for me to implement my simply Data Visualisation skills through Python.
 </br>
+</br>
+</br>
 **Steam Population Chart from 10/15/2021 to 10/22/2021 (Weekly)**
 ![Steam-pop](Steam-Pop.png)
 This chart demonstrates the fluctuation Steam's online population throughout a week: Y-axis demonstrates the number of players in tens of millions; X-axis demonstrates the date throughout the week. As shown, the blue line indicates the total amount of online individuals during the time and the green line tells the population who are both online and in-game at the same time.
