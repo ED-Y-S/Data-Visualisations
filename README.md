@@ -27,4 +27,4 @@ Y-axis demonstrates the number of courses at per school; X-axis demonstrates eac
 </br>
 </br>
 </br>
-[Project Instructions](https://github.com/mikeizbicki/cmc-csci040/blob/2021fall/hw_02/README.md)
+
