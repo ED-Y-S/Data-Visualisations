@@ -1,5 +1,5 @@
 # Data Visualisations
-This is a small repository for me to implement my simply Data Visualisation skills through Python.
+This is a small repository for me to implement my simple Data Visualisation skills through Python.
 </br>
 </br>
 </br>
